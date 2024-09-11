@@ -14,6 +14,10 @@ Key Features:
 5. 🚀 Automated Posting: Uses a cron job to post directly to your Twitter account at scheduled times, so you don't have to lift a finger
 
 
+
+![AI Tweet Bot Logo](https://simkafire.com/img/TonyWill2.png)
+
+
 Built With:
 
 - Python: Core language for the bot.
@@ -68,3 +72,17 @@ This will execute the bot script everyday at the specified time. Make sure to re
 ### For Windows
 
 Use Task Scheduler to run the bot script at specific intervals.
+
+
+## About Tony Will
+
+Tony Will, the Twitter bot, was able to gain over 300 followers within a month of being on the platform.
+
+![AI Tweet Bot Logo](https://simkafire.com/img/TonyWill.png)
+
+### Sample Tweet
+
+Here's an example of the kind of engaging content Tony Will produces:
+
+![Sample Tweet from Tony Will](https://simkafire.com/img/TonyWill2.png)
+
