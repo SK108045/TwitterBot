@@ -24,4 +24,5 @@ Built With:
 Perfect For:
 
 - Content creators wanting to automate tweet generation.
-- Developers interested in AI-driven content creation
+- Developers interested in AI-driven content creation.
+
