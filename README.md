@@ -14,10 +14,6 @@ Key Features:
 5. 🚀 Automated Posting: Uses a cron job to post directly to your Twitter account at scheduled times, so you don't have to lift a finger
 
 
-
-![AI Tweet Bot Logo](https://simkafire.com/img/TonyWill2.png)
-
-
 Built With:
 
 - Python: Core language for the bot.
