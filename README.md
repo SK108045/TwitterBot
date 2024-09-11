@@ -26,3 +26,45 @@ Perfect For:
 - Content creators wanting to automate tweet generation.
 - Developers interested in AI-driven content creation.
 
+## Requirements
+
+Before you install and run the bot, ensure you have the following prerequisites:
+
+1. **Python 3.x**: Make sure Python is installed on your system.
+2. **Twitter Developer Account**: You’ll need API keys to interact with Twitter’s API.
+3. **Google Cloud Account**: For accessing Google Vertex AI and Custom Search API.
+4. **Tweepy**: To interact with Twitter's API.
+5. **Google Custom Search API**: For searching and posting images.
+6. **Cron (Linux) or Task Scheduler (Windows)**: To automate the tweet posting process.
+
+## Installation
+
+To get started with this bot, follow these steps:
+
+```bash
+# Clone the repository
+git clone https://github.com/SK108045/TwitterBot.git
+
+# Navigate to the project directory
+cd TwitterBot
+
+# Install required dependencies
+pip install -r requirements.txt
+```
+## Automating with Cron (for Linux)
+If you're running the bot on a Linux server, you can automate the tweet posting process using Cron jobs.
+
+Open the Cron configuration file by running:
+```bash
+crontab -e
+```
+
+Add the following line to schedule the bot to post tweets every day at 7AM, 10AM, 1PM, 3PM and 5PM:
+
+```bash
+0 7,10,13,15,17 * * * /usr/bin/python3 /path/to/your/bot.py
+```
+This will execute the bot script everyday at the specified time. Make sure to replace /path/to/your/bot.py with the actual path to your bot script.
+### For Windows
+
+Use Task Scheduler to run the bot script at specific intervals.
