@@ -1,0 +1,5 @@
+requests
+tweepy
+google-cloud-aiplatform
+scikit-learn
+vertexai
