@@ -1,4 +1,6 @@
 # TwitterBot
+![Sample Tweet from Tony Will](https://simkafire.com/img/TonyWill2.png)
+
 This Twitter bot uses AI to generate witty, humorous, and engaging tweets automatically. Powered by Google Vertex AI and Tweepy, this bot not only crafts unique tweet content but also finds and posts relevant images, making your Twitter account lively and interactive.
 
 Key Features:
