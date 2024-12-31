@@ -1,5 +1,5 @@
 # TwitterBot
-![Sample Tweet from Tony Will](https://sk10codebase.online/img/TonyWill2.png)
+![Sample Tweet from Tony Will](https://shorturl.sk10codebase.online/img/TonyWill2.png)
 
 This Twitter bot uses AI to generate witty, humorous, and engaging tweets automatically. Powered by Google Vertex AI and Tweepy, this bot not only crafts unique tweet content but also finds and posts relevant images, making your Twitter account lively and interactive.
 
@@ -76,7 +76,7 @@ Use Task Scheduler to run the bot script at specific intervals.
 
 Tony Will, the Twitter bot, was able to gain over 300 followers within a month of being on the platform.
 
-![AI Tweet Bot Logo](https://sk10codebase.online/img/TonyWill.png)
+![AI Tweet Bot Logo](https://shorturl.sk10codebase.online/img/TonyWill.png)
 
 ### Sample Tweet
 
